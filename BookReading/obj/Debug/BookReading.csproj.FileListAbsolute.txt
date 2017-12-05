@@ -1,0 +1,65 @@
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\obj\Debug\BookReading.csprojResolveAssemblyReference.cache
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\BookReading.dll.config
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\BookReading.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\BookReading.pdb
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\Dapper.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\linq2db.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\Newtonsoft.Json.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Net.Http.Formatting.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Helpers.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Http.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Http.WebHost.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Mvc.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Razor.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.WebPages.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.WebPages.Razor.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\Dapper.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\linq2db.pdb
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\Newtonsoft.Json.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Net.Http.Formatting.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Helpers.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Http.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Http.WebHost.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Mvc.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.Razor.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.WebPages.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\bin\System.Web.WebPages.Razor.xml
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\obj\Debug\BookReading.dll
+C:\Users\asot\Documents\Visual Studio 2015\Projects\BookReading-master\BookReading\obj\Debug\BookReading.pdb
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\BookReading.dll.config
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\BookReading.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\BookReading.pdb
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\Dapper.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\linq2db.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\Newtonsoft.Json.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Net.Http.Formatting.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Helpers.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Http.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Http.WebHost.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Mvc.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Razor.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.WebPages.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.WebPages.Razor.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\Dapper.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\linq2db.pdb
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\Newtonsoft.Json.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Net.Http.Formatting.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Helpers.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Http.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Http.WebHost.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Mvc.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.Razor.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.WebPages.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\bin\System.Web.WebPages.Razor.xml
+C:\Users\nxtSwitch\Desktop\d\BookReading\obj\Debug\BookReading.csprojResolveAssemblyReference.cache
+C:\Users\nxtSwitch\Desktop\d\BookReading\obj\Debug\BookReading.csproj.CoreCompileInputs.cache
+C:\Users\nxtSwitch\Desktop\d\BookReading\obj\Debug\BookReading.dll
+C:\Users\nxtSwitch\Desktop\d\BookReading\obj\Debug\BookReading.pdb
